@@ -18,52 +18,5 @@
     p{
         border:1px solid white;
     }
-    nav{
-        display:flex;
-        flex-direction:row;
-        background-color: transparent;
-        padding:40px;
-        top: 0;
-        font-size: 15px;;
-        font-weight: bold;}
-    }
-    
-    nav>ul>li{
-       padding: 10px;
-       margin-top: 0;
-       text-transform: initial ;
-       text-decoration: line;
-        display:inline-block;
-        color: white;
-    }
-    nav>ul>li>a:hover {
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
-        background: rgba(221, 109, 35, 0.678);
-        color: white;
-        }
-  body{
-      display:flex;
-      flex-direction:column;
-      color:white;
-      background-color:black;
-      margin-right:400px;
-      margin-left:400px;
-      font-size:40px;
-  }
-  img{
-    position:relative;
-    left:50px;
-    top:250px;
-    border-radius:150px;
-    height:440px;
-    width:500px;
-    align-self:center;
-    margin-right:60px;
-} 
-p{
-    border:1px solid white;
 }
-h1{
-    position:relative;
-    top:250px
-}
+  
