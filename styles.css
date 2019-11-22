@@ -4,7 +4,6 @@
         color:green;
     }
     img{
-        display:flex;
         justify-content:space-evenly;
         border-radius:100px;
         align-self: center;
@@ -18,5 +17,42 @@
     p{
         border:1px solid white;
     }
+}
+h1{
+    position:relative;
+    left:700px;
+    bottom:60px;
+    margin-bottom:50px;
+    font-size:60px;
+}
+img{
+    border-radius:100px;
+    float:left;
+    margin-left:30px;
+    margin-right:30px;
+}
+p{
+    width:1000px;
+    font-size:60px;
+}
+h2{
+    font-size:40px;
+}
+.center{
+    position:relative;
+    left:620px;
+}
+body{
+    border:2px lime;
+    margin-top:50px;
+}
+.bord{
+    border:2px solid blue;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:70px;
+    width:2000px;
+    background-color:teal;
+    height:1500px;
 }
   
