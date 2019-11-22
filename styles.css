@@ -5,14 +5,14 @@
 
 img{
     float:left;
-    margin-right: 40px;
+    margin-right:70px;
     margin-top:20px;
     background-color:peachpuff;
-    border:5px teal;
+    border-radius:40px;
     padding:10px;
 }
  .about{
-    width:px;
+    width:1500px;
     font-size:29px;
 }
 .column{
@@ -22,7 +22,8 @@ img{
 }
 .project{
     font-size:25px;
-    align-self:center;  
+    align-self:center; 
+    position:relative; 
 }
 h3{
     font-size:30px;  
@@ -31,7 +32,7 @@ h1{
     position:relative;
     color:blue;;
     align-self: center;
-    left:600px;
+    left:650px;
     margin-bottom:30px;
 }
 .more{
@@ -40,8 +41,10 @@ h1{
     font-size:25px;  
 }
 #bord{
-    border:1px solid blue;
+    border:5px solid blue;
     align-items:center;
-    margin-left:100px;
+    margin:100px;
+    background-color:peachpuff;
+    padding:20px;
 }
 
