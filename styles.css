@@ -41,6 +41,7 @@ h1{
 }
 #bord{
     border:1px solid blue;
-    width:60%
+    align-items:center;
+    margin-left:100px;
 }
 
