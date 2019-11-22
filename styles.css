@@ -1,14 +1,39 @@
-h1{
- align-self:center;
-} 
 
+body{
+    flex-direction: column;
+    border:1px red;
+    margin:30px;
+    padding:10px;
+}
 img{
     float:left;
-    margin-right: 15px;
-    margin-top:20px
+    margin-right: 40px;
+    margin-top:20px;
+    background-color:peachpuff;
+    border:5px teal;
+    padding:10px;
 }
-P{
-    width:1050px;
-    font-family: 'Questrial', sans-serif;
-    font-size:30px;
+ .about{
+    width:px;
+    font-size:29px;
 }
+.column{
+    display:flex;
+    justify-content:space-evenly;
+    font-size:25px;
+}
+.project{
+    font-size:25px;
+    align-self:center;  
+}
+h3{
+    font-size:30px;  
+}
+h1{
+    position:relative;
+    color:blue;;
+    align-self: center;
+    left:600px;
+    margin-bottom:30px;
+}
+
