@@ -1,0 +1,14 @@
+h1{
+ align-self:center;
+} 
+
+img{
+    float:left;
+    margin-right: 15px;
+    margin-top:20px
+}
+P{
+    width:1050px;
+    font-family: 'Questrial', sans-serif;
+    font-size:30px;
+}
