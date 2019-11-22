@@ -12,8 +12,9 @@ img{
     padding:10px;
 }
  .about{
-    width:1500px;
-    font-size:29px;
+    width:1550px;
+    font-size:33px;
+    color:black;
 }
 .column{
     display:flex;
@@ -46,5 +47,19 @@ h1{
     margin:100px;
     background-color:peachpuff;
     padding:20px;
+}
+.about h2{
+    color:deepskyblue;
+    position:relative;
+    left:300px;
+}
+h4{
+    color:maroon;
+}
+span{
+    flex-grow:300px;
+}
+h1{
+    boder: 1px lime;
 }
 
