@@ -4,12 +4,9 @@
 }
 
 img{
-    float:left;
-    margin-right:70px;
-    margin-top:20px;
-    background-color:peachpuff;
-    border-radius:40px;
-    padding:10px;
+    display:flex;
+    align-self:center;
+
 }
  .about{
     width:1550px;
@@ -43,10 +40,9 @@ h1{
 }
 #bord{
     border:5px solid blue;
-    align-items:center;
-    margin:100px;
     background-color:peachpuff;
-    padding:20px;
+    padding:22px;
+    height: 1500px;
 }
 .about h2{
     color:deepskyblue;
@@ -62,4 +58,64 @@ span{
 h1{
     boder: 1px lime;
 }
+nav{
+    position:relative;
+    background-color: transparent;
+    padding:40px;
+    right: 0;
+    top: 0;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow:3px 3px 5px white;
+}
+nav>ul{
+    text-align: right;
+    top:0;
+    left:0;
+    right:0;
+}
+
+nav>ul>li{
+   padding: 18px;
+   margin-right: 0;
+   text-transform: uppercase;
+   text-decoration: none;
+    display:inline-block;
+    color: white;
+}
+nav>ul>li>a:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+    background: rgba(221, 109, 35, 0.678);
+    color: white;
+    }
+    body{
+        border:1px solid blue;
+        padding: 50px;
+        margin: 30px;
+        height:1600px;
+        align-self:center;
+
+    }
+    .column{
+        display: flex;
+        justify-content:center;
+        
+        padding:10%;
+    }
+    img{
+        border-radius:300px;
+        position:relative;
+        top:300px;
+    }
+    h2{
+        position: relative;
+        top:350px;
+        font-size:40px;
+        left:200px;
+    }
+    h1{
+        position:relative;
+        top:200px;
+        font-size:40px;
+    }
 
