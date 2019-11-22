@@ -1,13 +1,8 @@
 
 @media screen and(min-width:360px) and(max-width:1000px){
-    
+
 }
-body{
-    flex-direction: column;
-    border:1px red;
-    margin:30px;
-    padding:10px;
-}
+
 img{
     float:left;
     margin-right: 40px;
@@ -38,5 +33,14 @@ h1{
     align-self: center;
     left:600px;
     margin-bottom:30px;
+}
+.more{
+    display:flex;
+    justify-content:space-evenly;
+    font-size:25px;  
+}
+#bord{
+    border:1px solid blue;
+    width:60%
 }
 
