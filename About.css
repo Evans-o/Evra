@@ -1,5 +1,5 @@
 body {
-    background-color:darkblue;
+    background-color:black;
     padding: 30px;
     font-family: Arial;
     display:block;
@@ -7,6 +7,7 @@ body {
     height:1700px;
     border:2px solid blue;
     margin-left:0;
+    color:white;
 
   }
   nav{
@@ -49,16 +50,19 @@ body {
   h1{
       color:white;
   }
+  img:hover{
+    opacity:0.5;
+}
   img{
       position:relative;
       left:600px;
       border-radius:200px;
-      top:100px;
+      top:5px;
       margin-bottom:5px;
   }
   #name{
       position:relative;
-      top:600px;
+      top:150px;
       right:850px;
       color:white;
       float:right;
@@ -76,9 +80,10 @@ body {
   }
   #short{
       position:relative;
-      right:300px;
-      width:600px;
+      right:250px;
+      width:510px;
       font-size: 30px;
+      margin-left:100px;
   }
   .column{
       position:relative;
@@ -89,4 +94,10 @@ body {
   #long{
       font-size:30px;
       color:white;
+  }
+  #pict{
+      position:relative;
+      top:150px;
+      border:2px solid white;
+      margin-bottom:20px;
   }
