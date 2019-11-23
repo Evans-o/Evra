@@ -83,7 +83,6 @@ nav{
   }
   li{
       display:inline-flex;
-      justify-content: space-evenly;
   }
   
   li a {
