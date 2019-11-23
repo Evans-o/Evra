@@ -100,4 +100,21 @@ body {
       top:150px;
       border:2px solid white;
       margin-bottom:20px;
+      background-color:white;
   }
+  footer{
+      position:relative;
+      top:130px;
+      border:2px solid white;
+      border-radius:20px;
+      font-size:20px;
+      padding:10px;
+      padding-top:20px;
+      
+  }
+  footer:hover{
+      background-color:yellow;
+      color:black;
+
+  }
+  
