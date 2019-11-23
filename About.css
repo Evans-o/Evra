@@ -1,5 +1,5 @@
 body {
-    background-color:pale blue;
+    background-color:darkblue;
     padding: 20px;
     font-family: Arial;
     display:block;
@@ -50,13 +50,26 @@ body {
     background-color: #111;
   }
   h1{
-      border:1px solid white;
-      text-align: center;
-      background-color:peachpuff
+      color:white;
   }
   img{
       position:relative;
       left:600px;
       border-radius:200px;
       top:100px;
+      margin-bottom:5px;
+  }
+  #name{
+      color:white;
+      float:left;
+  }
+  span{
+      position:relative;
+      bottom:10px;
+      font-size:70px;
+      float:left;
+  }
+  p{
+      color:white;
+      font-size:30px;
   }
