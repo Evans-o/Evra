@@ -49,16 +49,37 @@ body{
 }
 nav{
     border:1px white;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 10px 0;
+    width: 1200px;
+    margin: 1px;
+    padding: 10px;
+    font-size:40px;
+    top:0;
 
   }
-  ul{
-    text-align: center;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+        position: fixed;
+        width: 100%;
   }
-  li{
-    display: inline-block;
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: line;
+  }
+  
+  li a:hover {
+    background-color: #111;
   }
   h1{
       border:1px solid white;
@@ -66,7 +87,8 @@ nav{
   }
   body{
       border:2px solid blue;
-      margin:40px;
+      display: block;
+  margin: 8px;
 
   }
 
