@@ -39,7 +39,7 @@ p{
     left:350px;
     top:70px;
     font-size:60px;
-    width:850px;
+    width:900px;
 
 }
 h2{
@@ -119,7 +119,22 @@ nav{
       position:relative;
       top:350px;
       border:2px solid black;
-      border:
+      background-image:url(https://images.pexels.com/photos/39349/teens-robot-future-science-39349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+      background-repeat:repeat;
+    
+  }
+  .transbox{
+      margin:30px;
+      background-color:teal;
+      border:1px solid black;
+      opacity:0.8;
+      filter: alpha(opacity=60);
+  }
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color:#000000;
+    opacity:1;
   }
 
 
