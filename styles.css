@@ -136,6 +136,10 @@ nav{
     color:#000000;
     opacity:1;
   }
+  div.transbox p:hover{
+      opacity:0.5;
+      color:yellow;
+  }
 
 
   
