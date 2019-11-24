@@ -24,13 +24,15 @@
 </ul>
 <h1>Support.</h1>
 <p>If you are having issues,please let me know,you can use the below contact information to reach me.</p>
+<h1>Author</h1>
+      <ul>
+      <li>Evans Opindi</li>
+      </ul>
+
 <h1>Contact information:</h1>
 <li>Mobile no:070496675/0740772578</li>
 <li>Email :evansopindi@yahoo.com</li>
 <li>: evracheche@gmail.com</li>
 <h1>Licencing instructions:</h1>
 <p>The project is licenced under the <strong>MIT</strong>
-      <h1>Author</h1>
-      <ul>
-      <li>Evans Opindi</li>
-      </ul>
+      
