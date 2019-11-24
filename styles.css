@@ -156,6 +156,11 @@ nav{
       text-shadow: 2px 2px,2px,3 darkgoldenrod;
       font-family: 'Lobster', cursive;
   }
+  h2:hover{
+    text-shadow: 2px 2px 5px darkgoldenrod;
+    padding: 20px;
+    color:darkturquoise;
+  }
 
 
   
