@@ -41,36 +41,40 @@ nav>ul>li>a:hover {
     background: rgba(221, 109, 35, 0.678);
     color: white;
     }
-    body{
-    padding: 30px;
-    font-family: Arial;
-    display:block;
-    width:100;
-    height:2500px;
-    border:2px solid blue;
-    margin-left:0;
+body{
+  padding: 30px;
+  font-family: Arial;
+  display:block;
+  width:100;
+  height:3300px;
+  border:2px solid blue;
+  margin-left:0;
   overflow-x: hidden;
   background-color:darkolivegreen;
     }
-    .project{
-      font-size:35px;
-    border:2px solid darkgoldenrod;
+.project{
+  font-size:35px;
+  border:2px solid darkgoldenrod;
     }
-    .projects,h2{
-    position:relative; 
-    left:650px; 
-    color:darkturquoise;
+.projects,h2{
+  position:relative; 
+  left:650px; 
+  color:darkturquoise;
+  }
+.projects,ol{
+  position:relative; 
+  left:700px; 
+  }
+.column{
+  font-size:30px;
     }
-    .projects,ol{
-      position:relative; 
-    left:700px; 
-    }
-    .column{
-      font-size:30px;
-    }
-    h3{
-      font-size:35px;
-      position:relative;
-      left:650px;
-
-    }
+h3{
+  font-size:45px;
+  position:relative;
+  left:650px;
+  text-decoration:line;
+}
+#part1,#part2,#part3,#part4{
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size:40px;
+}
