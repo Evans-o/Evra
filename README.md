@@ -14,7 +14,7 @@
     https://github.com/Evans-o/Evra.github.io </p> 
 <h1>Live link.</h1>
 <p>To get into the project visit the following link: https://github.com/Evans-o/Evra.github.io/</p>
-<h1>Copyrights.</h1>.
+<h1>Copyrights (c) evans.</h1>.
 <p>This website and its content is a copyright of [Portfolio].All right reserved.</p>
 <p>Any redistribution or reproduction of part or all content in any form  is prohibited other than the following:
 <ul>
