@@ -27,5 +27,5 @@
 <li>Email :evansopindi@yahoo.com</li>
 <li>: evracheche@gmail.com</li>
 <h1>Licensing instructions:</h1>
-<p>The project is licenced under the <strong>MIT</strong>
+<p>The project is licensed under the <strong>MIT</strong>
       
