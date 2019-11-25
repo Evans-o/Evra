@@ -46,7 +46,7 @@ body{
   font-family: Arial;
   display:block;
   width:100;
-  height:4400px;
+  height:3500px;
   border:2px solid blue;
   margin-left:0;
   overflow-x: hidden;
@@ -76,7 +76,7 @@ h3{
 }
 #part1,#part2,#part3,#part4{
   font-family: 'Pragati Narrow', sans-serif;
-  font-size:40px;
+  font-size:30px;
 }
 #part1 h4,#part2 h4,#part3 h4,#part4 h4{
   color:darksalmon;
