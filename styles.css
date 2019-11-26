@@ -1,21 +1,21 @@
 @media screen and (min-width:320px) and (max-width:1280px){
-    body{
-        background-color:black; 
-        color:green;
-        background-image:url("https://www.w3schools.com/w3images/mountains.jpg")
-    }
-    img{
-        border-radius:100px;
-        align-self: center;
-        height:220px;
-        width:250px;
-        align-self: auto;
-    } 
-    span,p{
-        color:white;
-    }
-    p{
-        border:1px solid white;
+body{
+    background-color:black; 
+    color:green;
+    background-image:url("https://www.w3schools.com/w3images/mountains.jpg")
+}
+img{
+    border-radius:100px;
+    align-self: center;
+    height:220px;
+    width:250px;
+    align-self: auto;
+} 
+span,p{
+    color:white;
+}
+p{
+    border:1px solid white;
     }
 }
 h1{
@@ -41,7 +41,7 @@ p{
     font-size:60px;
     width:900px;
     font-family: 'Lobster', cursive;
-font-family: 'Notable', sans-serif;
+    font-family: 'Notable', sans-serif;
 
 
 }
@@ -61,6 +61,7 @@ body{
     width:100%;
     height:1950px;
     align-items:center;
+    op
 }
 nav{
     border:1px white;
@@ -80,12 +81,12 @@ nav{
     padding: 0;
     overflow: hidden;
     background-color: #333;
-        position: fixed;
-        width: 100%;
-        top:0
+    position: fixed;
+    width: 100%;
+    top:0
   }
   li{
-      display:inline-flex;
+    display:inline-flex;
   }
   
   li a {
@@ -105,22 +106,21 @@ nav{
     color: white;
     }
   h1{
-      border:1px solid white;
-      text-align: center;
-      background-color:peachpuff
+    border:1px solid white;
+    text-align: center;
+    background-color:peachpuff
   }
   body{
-      border:2px solid blue;
-      display: block;
+    border:2px solid blue;
+    display: block;
     margin: auto;
     background-image:url("https://www.w3schools.com/w3images/mountains.jpg");
     background-size:cover;
     background-repeat:no-repeat;
-    opacity:1.1;
     overflow-x: hidden;
   }
   img:hover{
-      opacity:0.5;
+    opacity:0.5;
   }
   .background{
       position:relative;
@@ -144,17 +144,17 @@ nav{
     opacity:1;
   }
   div.transbox p:hover{
-      opacity:0.5;
-      color:yellow;
+    opacity:0.5;
+    color:yellow;
   }
   h1:hover{
-      color:navy;
-      opacity:0.6;
+    color:navy;
+    opacity:0.6;
   }
   h2{
-      font-size:50px;
-      text-shadow: 2px 2px,2px,3 darkgoldenrod;
-      font-family: 'Lobster', cursive;
+    font-size:50px;
+    text-shadow: 2px 2px,2px,3 darkgoldenrod;
+    font-family: 'Lobster', cursive;
   }
   h2:hover{
     text-shadow: 2px 2px 5px darkgoldenrod;

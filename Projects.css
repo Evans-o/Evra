@@ -1,24 +1,24 @@
 nav{
-    border:1px white;
-    width: 1200px;
-    margin-right:10px;
-    padding: 10px;
-    font-size:40px;
-    top:0;
-    right:50px;
-    justify-content: space-evenly;
-    text-align: center;
-    margin-bottom:100px;
+  border:1px white;
+  width: 1200px;
+  margin-right:10px;
+  padding: 10px;
+  font-size:40px;
+  top:0;
+  right:50px;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-bottom:100px;
 
 }
 nav ul {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    width: 100%;
-    top:0
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  width: 100%;
+  top:0
   }
   li a {
     display: flex;;
@@ -26,8 +26,7 @@ nav ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: line;
-  }
-
+}
 nav>ul>li{
    padding: 18px;
    margin-right: 0;
@@ -37,12 +36,13 @@ nav>ul>li{
    color: white;
 }
 nav>ul>li>a:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
-    background: rgba(221, 109, 35, 0.678);
-    color: white;
-    }
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(221, 109, 35, 0.678);
+  color: white;
+}
 body{
-  padding: 30px;
+  padding: 60px;
+  paddig-top:25px;
   font-family: Arial;
   display:block;
   width:100;
@@ -51,25 +51,26 @@ body{
   margin-left:0;
   overflow-x: hidden;
   background-color:darkolivegreen;
-    }
+  align-items: center;
+}
 .project{
   font-size:35px;
-  border:2px solid darkgoldenrod;
-    }
+  border:5px solid darkgoldenrod;
+}
 .projects,h2{
   position:relative; 
   left:650px; 
   color:darkturquoise;
-  }
+}
 .projects,ol{
   position:relative; 
   left:700px; 
-  }
+}
 .column{
   font-size:30px;
-    }
+}
 h3{
-  font-size:45px;
+  font-size:50px;
   position:relative;
   left:650px;
   text-decoration:line;
@@ -80,7 +81,8 @@ h3{
 }
 #part1 h4,#part2 h4,#part3 h4,#part4 h4{
   color:darksalmon;
-  position:relative;
-  left:680px;
   text-decoration:line;
+  border:5px solid blue;
+  border-radius:20px;
+text-align:center;
 }
